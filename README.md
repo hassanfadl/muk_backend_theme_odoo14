@@ -3,7 +3,7 @@
 [![Help](http://img.shields.io/badge/master-help-875A7B.svg?style=flat&colorA=8F8F8F)](https://github.com/hoangviethung/muk_backend_theme_odoo14)
 [![Nightly Builds](http://img.shields.io/badge/master-nightly-875A7B.svg?style=flat&colorA=8F8F8F)](https://github.com/hoangviethung/muk_backend_theme_odoo14)
 
-## MuK Web Theme
+## MuK Backend Theme Odoo14
 
 This module offers a mobile compatible design for Odoo Community. Furthermore it allows the user to define some design preferences. So he can choose the size of the sidebar and the position of the chatter. In addition, the background image of the app menu can be set for each company.
 
@@ -67,7 +67,7 @@ This module is maintained by the MuK IT GmbH.
 
 MuK IT is an Austrian company specialized in customizing and extending Odoo. We develop custom solutions for your individual needs to help you focus on your strength and expertise to grow your business.
 
-## Getting started with Greenbeli
+## Getting started with MuK Backend Theme Odoo14
 
 For a standard installation please follow the <a href="https://github.com/hoangviethung/muk_backend_theme_odoo14">Setup Template</a>
 from the documentation.
