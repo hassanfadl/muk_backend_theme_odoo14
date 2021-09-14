@@ -69,7 +69,7 @@ MuK IT is an Austrian company specialized in customizing and extending Odoo. We 
 
 ## Getting started with MuK Backend Theme Odoo14
 
-You can see demo in <a  href="https://demo.mukit.at/" target="_blank" rel="noopener noreferrer">Demo</a>
+You can see demo in <a  href="https://demo.mukit.at/">Demo</a>
 
-For a standard installation please follow the <a href="https://github.com/hoangviethung/muk_backend_theme_odoo14" target="_blank" rel="noopener noreferrer">Setup Template</a>
+For a standard installation please follow the <a href="https://github.com/hoangviethung/muk_backend_theme_odoo14">Setup Template</a>
 from the documentation.
